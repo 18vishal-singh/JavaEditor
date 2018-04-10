@@ -7,6 +7,11 @@ import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import javax.swing.text.Element;
 
+
+/*
+@author:Vishal Singh
+*/
+
 class MyJavaEditor implements ActionListener
 {
 	JFrame jf;
